@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'recentcontent'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.menu_type_pi1">Menu of recently updated pages</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="tt_content.menu_type_pi1">Menü der zuletzt geänderten Seiten</label>
+		</languageKey>
+		<languageKey index="pt" type="array">
+			<label index="tt_content.menu_type_pi1">Menu das últimas páginas actualizadas</label>
+		</languageKey>
+	</data>
+</T3locallang>

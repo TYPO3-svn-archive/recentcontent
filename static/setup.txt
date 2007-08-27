@@ -1,0 +1,9 @@
+plugin.tx_recentcontent_pi1 {
+	###
+	# others
+	
+	numberResults = {$plugin.tx_recentcontent_pi1.numberResults}
+	strftime = {$plugin.tx_recentcontent_pi1.strftime}
+	cssClassName = {$plugin.tx_recentcontent_pi1.cssClassName}
+
+}

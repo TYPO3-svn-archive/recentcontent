@@ -1,0 +1,20 @@
+###
+# This are the default TS-constants for sm_recentcontent
+##
+
+plugin.tx_recentcontent_pi1 = USER
+plugin.tx_recentcontent_pi1 {
+
+	###
+	# Others
+	##
+
+	# cat=plugin.recentcontent//0; type=int+; label=Total results: Total results to show.
+	numberResults = 10
+
+	# cat=plugin.recentcontent//1; type=string; label=Date format: Date format string.
+	strftime = Y-m-d H:m
+
+	# cat=plugin.recentcontent//2; type=string; label=CSS Class Name: CSS class name for the div container of the menu element.
+	cssClassName = recentContent
+}
